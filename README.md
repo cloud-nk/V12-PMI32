@@ -12,3 +12,10 @@
   <a href="#-lab9"><img alt="lab9" src="https://img.shields.io/badge/Lab9-violet"></a> 
   
 </p>
+
+# <img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab1
+[Назад](#content)
+<h3 align="center">
+  <a href="#client"></a>
+  1.1 Формулировка лабораторной работы, например: "Разработать представления или хранимые процедуры для выполнения заданий."
+</h3>
