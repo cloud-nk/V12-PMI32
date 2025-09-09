@@ -17,9 +17,7 @@
 
 # <img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab1
 [Назад](#content)
-<h3 align="center">
-  <span style="color: #bbded6;">Проектирование базы данных</span>
-</h3> 
+### <span style="color: #bbded6; background-color: #2c3e50; padding: 4px 8px; border-radius: 4px;">🔮 Lab1: Проектирование базы данных</span>
 
 Задание:
 
