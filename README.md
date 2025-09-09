@@ -18,10 +18,10 @@
 # <img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab1
 [Назад](#content)
 <h3 align="center">
-  <a href="#client"></a>Проектирование базы данных</span>
+  Проектирование базы данных
 </h3>
 
-Задание:
+__Задание:__
 
 Разработать ER-модель предметной области, включая:
 - Выделение сущностей, их атрибутов и связей
