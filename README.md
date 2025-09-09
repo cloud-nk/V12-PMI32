@@ -1,2 +1,14 @@
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/> Лабораторные работы по MSSQL
-<p align="center"> <a href="#-lab1-название-темы"><img alt="Lab1" src="https://img.shields.io/badge/Lab1-Название_темы-8A2BE2"></a> <a href="#-lab2-название-темы"><img alt="Lab2" src="https://img.shields.io/badge/Lab2-Название_темы-FF4500"></a> <a href="#-lab3-название-темы"><img alt="Lab3" src="https://img.shields.io/badge/Lab3-Название_темы-32CD32"></a> <a href="#-lab4-название-темы"><img alt="Lab4" src="https://img.shields.io/badge/Lab4-Название_темы-FFD700"></a> <a href="#-lab5-название-темы"><img alt="Lab5" src="https://img.shields.io/badge/Lab5-Название_темы-696969"></a> <a href="#-lab6-название-темы"><img alt="Lab6" src="https://img.shields.io/badge/Lab6-Название_темы-FF6347"></a> <a href="#-lab7-название-темы"><img alt="Lab7" src="https://img.shields.io/badge/Lab7-Название_темы-D2691E"></a> <a href="#-lab8-название-темы"><img alt="Lab8" src="https://img.shields.io/badge/Lab8-Название_темы-9370DB"></a> <a href="#-lab9-название-темы"><img alt="Lab9" src="https://img.shields.io/badge/Lab9-Название_темы-008080"></a> <a href="#-lab10-название-темы"><img alt="Lab10" src="https://img.shields.io/badge/Lab10-Название_темы-FF1493"></a> </p>
+<h1 name="content" align="center"><a href=""><img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/></a> MSSQL</h1>
+
+<p align="center">
+  <a href="#-lab1"><img alt="lab1" src="https://img.shields.io/badge/Lab1-blue"></a> 
+  <a href="#-lab2"><img alt="lab2" src="https://img.shields.io/badge/Lab2-red"></a>
+  <a href="#-lab3"><img alt="lab3" src="https://img.shields.io/badge/Lab3-green"></a>
+  <a href="#-lab4"><img alt="lab4" src="https://img.shields.io/badge/Lab4-yellow"></a>
+  <a href="#-lab5"><img alt="lab5" src="https://img.shields.io/badge/Lab5-gray"></a>
+  <a href="#-lab6"><img alt="lab6" src="https://img.shields.io/badge/Lab6-orange"></a> 
+  <a href="#-lab7"><img alt="lab7" src="https://img.shields.io/badge/Lab7-brown"></a>
+  <a href="#-lab8"><img alt="lab8" src="https://img.shields.io/badge/Lab8-purple"></a>
+  <a href="#-lab9"><img alt="lab9" src="https://img.shields.io/badge/Lab9-violet"></a> 
+  
+</p>
