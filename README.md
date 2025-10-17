@@ -123,4 +123,7 @@ __Задание:__
 </h3>
 
 
-![image](/sources_lab2/diagram.png)
+## Диаграмма БД
+![image](/sources_lab2/Diagram.png)
+
+
