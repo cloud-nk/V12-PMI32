@@ -94,7 +94,7 @@ __Описание ER-модели:__
 
 
 
-# <img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab1
+# <img src="https://github.com/user-attachments/assets/e080adec-6af7-4bd2-b232-d43cb37024ac" width="20" height="20"/> Lab2
 [Назад](#content)
 <h3 align="center">
   Проектирование базы данных в SQL
