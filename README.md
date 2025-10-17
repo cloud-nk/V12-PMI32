@@ -128,3 +128,37 @@ __Задание:__
 
 2.2 [SQL-код заполнения таблиц](https://github.com/cloud-nk/V12-PMI32/blob/main/UniversityBDTable.sql)
 </h3>
+
+
+## Преподаватели
+![image](/sources_lab2/Teachers.png)
+
+
+## Дисциплины
+![image](/sources_lab2/Disciplines.png)
+
+
+## Преподаватель-дисциплина
+![image](/sources_lab2/Teacher_Discipline.png)
+
+
+## Группы
+![image](/sources_lab2/StudyGroups.png)
+
+
+## Учебный план
+![image](/sources_lab2/CurriculumPlan.png)
+
+
+## Студенты
+![image](/sources_lab2/Students.png)
+
+
+## Ведомость
+![image](/sources_lab2/Statements.png)
+
+
+
+## Оценки
+![image](/sources_lab2/Grades.png)
+
