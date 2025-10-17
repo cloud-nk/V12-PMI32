@@ -121,3 +121,6 @@ __Задание:__
   
 2.1 [SQL-код создания таблиц](https://github.com/cloud-nk/V12-PMI32/blob/main/UniversitySqlServer.sql)
 </h3>
+
+
+![image](/sources_lab2/diagram.png)
