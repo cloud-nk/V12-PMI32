@@ -126,4 +126,5 @@ __Задание:__
 ## Диаграмма БД
 ![image](/sources_lab2/Diagram.png)
 
-
+2.2 [SQL-код заполнения таблиц](https://github.com/cloud-nk/V12-PMI32/blob/main/UniversityBDTable.sql)
+</h3>
