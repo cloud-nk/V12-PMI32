@@ -119,5 +119,5 @@ __Задание:__
 
 <h3> 
   
-2.1 [SQL-код создания таблиц](https://github.com/)
+2.1 [SQL-код создания таблиц](https://github.com/UniversitySqlServer.sql)
 </h3>
