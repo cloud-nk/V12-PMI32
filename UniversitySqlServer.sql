@@ -1,4 +1,4 @@
-USE University;
+USE UniversityBD;
 
 -- 1. Дисциплины
 CREATE TABLE Disciplines (
@@ -73,13 +73,14 @@ CREATE TABLE Students (
 -- 8. Оценка
 CREATE TABLE Grades (
     grade_id INT IDENTITY(1,1) PRIMARY KEY,
-    student_id INT NOT NULL, 
-    statement_id INT NOT NULL, 
-    grade_value INT NOT NULL,
+    student_id INT NOT NULL,
+    statement_id INT NOT NULL,
+    grade_value NVARCHAR(10) NOT NULL, 
     exam_date DATE NOT NULL DEFAULT GETDATE(),
     
     FOREIGN KEY (student_id) REFERENCES Students(student_id),
     FOREIGN KEY (statement_id) REFERENCES Statements(statement_id),
-    CONSTRAINT CK_Grades_value CHECK (grade_value BETWEEN 2 AND 5)
-
+    CONSTRAINT CK_Grades_value
+        CHECK (grade_value IN ('2', '3', '4', '5', 'Зачет', 'Незачет'))
 );
+
